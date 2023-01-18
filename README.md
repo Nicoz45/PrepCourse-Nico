@@ -1,2 +1,2 @@
 # PrepCourse-Nico
-Reponicop Github
+Cear repo en github y clonarlo a mi repositorio local.
